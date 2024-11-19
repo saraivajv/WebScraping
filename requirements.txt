@@ -1,0 +1,12 @@
+# Bibliotecas principais
+selenium
+pandas
+
+# Google Cloud BigQuery
+google-cloud-bigquery
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# YAML (para carregar as configurações do arquivo config.yaml)
+pyyaml
