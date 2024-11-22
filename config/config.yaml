@@ -1,6 +1,5 @@
 # Configuration file
 steamdb_url: "https://steamdb.info/sales/"
-bigquery_project_id: "seu_projeto_id"
+bigquery_project_id: "steamdb-442416"
 bigquery_dataset: "steamdb_dataset"
 bigquery_table: "sales"
-chromedriver_path: "/caminho/para/chromedriver"
